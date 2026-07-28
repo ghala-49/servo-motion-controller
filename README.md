@@ -31,6 +31,9 @@ The program stops afterward to prevent repeated motion.
 ### Circuit Image
 ![Circuit](circuit.png)
 
+### Tinkercad Circuit Link
+[View the circuit on Tinkercad](https://www.tinkercad.com/things/fs2TIXVqRil-sizzling-allis-wolt)
+
 ---
 
 ## Simulation Video
